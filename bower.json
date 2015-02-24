@@ -1,0 +1,21 @@
+{
+  "name": "badwords-list",
+  "version": "0.0.0",
+  "homepage": "https://github.com/imposibrus/badwords-list",
+  "authors": [
+    "imposibrus <imposibrus@gmail.com>"
+  ],
+  "description": "A highly consumable list of bad (profanity) english words",
+  "main": "words.json",
+  "keywords": [
+    "words"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
